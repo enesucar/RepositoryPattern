@@ -1,0 +1,15 @@
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\bin\Debug\net8.0\Northwind.Shared.EntityFrameworkCore.deps.json
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\bin\Debug\net8.0\Northwind.Shared.EntityFrameworkCore.dll
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\bin\Debug\net8.0\Northwind.Shared.EntityFrameworkCore.pdb
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\bin\Debug\net8.0\Northwind.Shared.Domain.dll
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\bin\Debug\net8.0\Northwind.Shared.Domain.pdb
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\obj\Debug\net8.0\Northwind.Shared.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\obj\Debug\net8.0\Northwind.Shared.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\obj\Debug\net8.0\Northwind.Shared.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\obj\Debug\net8.0\Northwind.Shared.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\obj\Debug\net8.0\Northwind.Shared.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\obj\Debug\net8.0\Northwin.5B838EA6.Up2Date
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\obj\Debug\net8.0\Northwind.Shared.EntityFrameworkCore.dll
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\obj\Debug\net8.0\refint\Northwind.Shared.EntityFrameworkCore.dll
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\obj\Debug\net8.0\Northwind.Shared.EntityFrameworkCore.pdb
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.EntityFrameworkCore\obj\Debug\net8.0\ref\Northwind.Shared.EntityFrameworkCore.dll

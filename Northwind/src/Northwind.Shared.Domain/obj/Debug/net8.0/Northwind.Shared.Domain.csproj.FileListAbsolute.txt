@@ -1,0 +1,11 @@
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.Domain\bin\Debug\net8.0\Northwind.Shared.Domain.deps.json
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.Domain\bin\Debug\net8.0\Northwind.Shared.Domain.dll
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.Domain\bin\Debug\net8.0\Northwind.Shared.Domain.pdb
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.Domain\obj\Debug\net8.0\Northwind.Shared.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.Domain\obj\Debug\net8.0\Northwind.Shared.Domain.AssemblyInfoInputs.cache
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.Domain\obj\Debug\net8.0\Northwind.Shared.Domain.AssemblyInfo.cs
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.Domain\obj\Debug\net8.0\Northwind.Shared.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.Domain\obj\Debug\net8.0\Northwind.Shared.Domain.dll
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.Domain\obj\Debug\net8.0\refint\Northwind.Shared.Domain.dll
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.Domain\obj\Debug\net8.0\Northwind.Shared.Domain.pdb
+C:\Users\Enes\Desktop\Works\Samples\Patterns\RepositoryPattern\Northwind\src\Northwind.Shared.Domain\obj\Debug\net8.0\ref\Northwind.Shared.Domain.dll
